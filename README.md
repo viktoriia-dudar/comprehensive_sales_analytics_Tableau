@@ -46,11 +46,6 @@ This component supports **informed decisions** around inventory, product focus, 
 ## 🛠️ Tools & Technologies
 
 - **Tableau** – for interactive data visualization.
-- **Data Source** – *(e.g., Sample Superstore dataset or other retail sales data)*
-
----
-![Dashboard Screenshot](images/dashboard_preview.png)
-- --
 
 ---
 
@@ -58,3 +53,7 @@ This component supports **informed decisions** around inventory, product focus, 
 
 1. Visit the [Tableau Public dashboard](https://public.tableau.com/app/profile/viktoriia.dudar3895/viz/ComprehensiveSalesAnalytics/SalesDashboard).
 2. Interact with filters and charts to explore data across different dimensions.
+
+![Dashboard Screenshot](Comprehensive%20Sales%20Analytics.png)
+
+---
