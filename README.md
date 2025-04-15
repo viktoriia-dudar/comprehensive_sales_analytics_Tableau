@@ -11,7 +11,7 @@ It's designed to help users **analyze key sales metrics**, detect **long-term tr
 
 ---
 
-## 🧩 Dashboard Components
+## Dashboard Components
 
 ### 🔘 Pie Chart – Sales by Region  
 Displays the distribution of sales across four major U.S. regions: **Central**, **East**, **South**, and **West**.  
