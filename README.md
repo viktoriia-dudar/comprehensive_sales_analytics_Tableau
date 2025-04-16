@@ -34,7 +34,7 @@ This component supports **informed decisions** around inventory, product focus, 
 
 - 💰 The **West region** recorded the **highest total sales**, with **California** standing out as the top-performing state.
 - 📈 **Sales increased steadily in 2017**, with the **Central region** showing the most significant growth compared to previous years.
-- 🪑 **Top-performing sub-categories** in each product category:
+- 🌟 **Top-performing sub-categories** in each product category:
   - **Furniture**: *Chairs*
   - **Office Supplies**: *Storage*
   - **Technology**: *Phones*
